@@ -1,0 +1,145 @@
+#header_index{
+    background: #032556;
+    height:100%;
+    width: 100%;
+    text-align: center;
+    padding: 2%;
+    margin-bottom: 1%;
+}
+#header_index > img{
+    width: 20%;
+}
+
+.contenido_menu{
+/*     background: #4682B4; */
+    height: 100px;
+    height: 100%;
+  /*   margin-top: 1%; */
+} 
+/* 
+.menu{
+    width: 100%;
+    height: auto;
+    padding-top: 2%;
+    text-align: center;
+}
+.menu a{
+    text-decoration:none;
+}*/
+/* .breadcrumb{
+    width: 10%;
+} */
+/* .menu ul li{
+    display:inline;
+    border-radius: 10%;  
+    font-size: 25px;
+    margin: 2%;    
+    color: white;
+    background: #003542;
+    padding: 0% 5% 0% 5%;
+
+}  */
+.breadcrumb{
+    width: 32%;
+}
+
+.panel_gestion{
+ /*    background-color: red; */
+    border: solid red 1px;
+    border-radius: 2%;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.btnCli{
+    width: 100%;
+}
+/* 
+.menu ul li:hover{
+    background: #F3FBFF;
+    cursor: pointer;
+    color: black;
+}
+
+.panel_inicio{
+    margin-top: 2%;
+    height: auto;
+    background:#C0DAE0;
+    text-align: center !important;
+    
+} */
+/* 
+.panel_busqueda{
+    text-align: center !important;
+    width: 100%;
+    height: auto;
+    margin-bottom: 2%;
+}
+
+.panel_busqueda input{
+    width: 20%;
+   margin-left: 35%;
+}
+
+.panel_tabla{
+    background:#C0DAE0;
+    height: auto;
+} */
+/* 
+textarea:hover, 
+input:hover, 
+textarea:active, 
+input:active, 
+textarea:focus, 
+input:focus,
+button:focus,
+button:active,
+button:hover,
+label:focus,
+.btn:active,
+.btn.active
+{
+    outline:0px !important;
+    border-color: #cccccc;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-appearance:none;
+}
+
+
+.panel_registro{
+    background: #FFA07A;
+    height: auto;
+    width: auto;    
+    margin-top: 1%;   
+    
+}
+#external_panel{
+    width: auto;   
+    height: auto;    
+} */
+
+/* .panel_registro input{
+    width: 30%;
+    margin-top: 2%;
+    margin-left: 30%;
+}
+.panel_registro select{
+    width: 30%;
+    margin-top: 2%;
+    margin-left: 30%;
+} */
+
+/* #btn_registrar{
+    background: white;
+    width: 20%;
+    margin-left: 35%;
+    color: black;
+    margin-bottom: 2%;
+} */
+
+/* #btn_registrar:hover{
+    background: #FFF5EE;
+    color: black;
+
+} */

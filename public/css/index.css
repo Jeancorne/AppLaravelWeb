@@ -1,0 +1,32 @@
+#header_index{
+    background: #032556;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    padding: 2%;
+    margin-bottom: 1%;
+}
+#header_index > img{
+    width: 20%;
+}
+.cuerpo{
+    text-align: center;
+}
+
+.elemento{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    width: 50%;
+    margin-left: 25%;
+}
+.login_btn{
+    width: 100%;
+}
+
+.btnCre{
+    width: 100%;
+}
+#sincuenta{
+    width: 100%;
+}

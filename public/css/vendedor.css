@@ -1,0 +1,33 @@
+#header_index{
+    background: #032556;
+    height:100%;
+    width: 100%;
+    text-align: center;
+    padding: 2%;
+    margin-bottom: 1%;
+}
+#header_index > img{
+    width: 20%;
+}
+
+.contenido_menu{
+/*     background: #4682B4; */
+    height: 100px;
+    height: 100%;
+  /*   margin-top: 1%; */
+} 
+.breadcrumb{
+    width: 32%;
+}
+
+.panel_gestion{
+    /*    background-color: red; */
+       border: solid red 1px;
+       border-radius: 2%;
+       width: 100%;
+       height: 100%;
+       text-align: center;
+   }
+   .btnCli{
+    width: 100%;
+}
